@@ -1,0 +1,30 @@
+* {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+
+/* body {
+    background: linear-gradient(to right, #5a23ff, #000);
+} */
+
+#header {
+    height: 45px;
+    margin: 30px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vergil-chibi {
+    width: 350px;
+}
+
+b {
+    display: block;
+    text-align: center;
+}
