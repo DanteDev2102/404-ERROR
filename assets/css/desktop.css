@@ -4,16 +4,8 @@
     font-weight: 200;
 }
 
-
-/* body {
-    background: rgb(255, 0, 50);
-} */
-
-
-/* (no tengo idea que colorsito ponerle :C) */
-
-#header {
-    height: 45px;
+header {
+    height: 15px;
     margin: 30px;
 }
 
@@ -21,6 +13,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .title {
